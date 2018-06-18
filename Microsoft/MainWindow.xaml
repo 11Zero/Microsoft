@@ -1,0 +1,25 @@
+﻿<Window x:Class="Microsoft.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Microsoft"
+        mc:Ignorable="d"
+        Title="Outlook" Height="656.866" Width="436.269" AllowsTransparency="True" 
+        WindowStyle="None" Opacity="0.3" Background="#7F000000" Topmost="True" ShowInTaskbar="False" MouseDown="Window_MouseDown" MouseMove="Window_MouseMove" PreviewMouseMove="Window_PreviewMouseMove">
+    <Grid Name="backgrid" HorizontalAlignment="Left" Height="657" VerticalAlignment="Top" Width="436" Opacity="0.9">
+        <Grid.Background>
+            <ImageBrush ImageSource="back.jpg"/>
+        </Grid.Background>
+
+
+
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" 
+                   Margin="10,455,0,0" TextWrapping="Wrap" Text="做我女朋友？？？" FontSize="28" FontWeight="Bold" Foreground="#ffff00ff"
+                   VerticalAlignment="Top" Height="45" Width="234"/>
+        <Button x:Name="button" Content="好好好"   FontSize="28" Foreground="#FFEE000B"
+                HorizontalAlignment="Left" Margin="31,583,0,0" BorderThickness="2"  BorderBrush="#f023d881" VerticalAlignment="Top" Width="118" Height="43" Background="#0023B881" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="好你个头，滚"   FontSize="28"
+            HorizontalAlignment="Left" Margin="234,583,0,0" BorderThickness="2"  BorderBrush="#f023d881" VerticalAlignment="Top" Width="181" Height="43" Background="#0011A66F" Click="button_Copy_Click" Foreground="#FFDCFF00"/>
+    </Grid>
+</Window>

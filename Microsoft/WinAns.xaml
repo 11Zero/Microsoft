@@ -1,0 +1,20 @@
+﻿<Window x:Class="Microsoft.WinAns"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Microsoft"
+        mc:Ignorable="d"
+        Title="你好好想想" Height="207.365" Width="215.864" AllowsTransparency="True" ShowInTaskbar="False" WindowStyle="None">
+    <Window.Background>
+        <SolidColorBrush Color="Black" Opacity="0.1"/>
+    </Window.Background>
+    <Grid Margin="0,0,2,2">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="18,19,0,0" TextWrapping="Wrap"
+                   Text="你男朋友叫个啥子？" FontSize="20" VerticalAlignment="Top" Height="38" Width="185" Foreground="#FF16B0D3"/>
+        <Button x:Name="button" Content="就是他" HorizontalAlignment="Left" Margin="121,130,0,0" VerticalAlignment="Top" Width="75" Click="button_Click" Opacity="0.3" Foreground="#FF1A34D8"/>
+        <Button x:Name="button_Copy" Content="是他吗？" HorizontalAlignment="Left" Margin="8,130,0,0" VerticalAlignment="Top" Width="75" Click="button_Copy_Click" Opacity="0.3" Foreground="#FF086128"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="42,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Opacity="0.3" Foreground="#FF1747EA"/>
+
+    </Grid>
+</Window>

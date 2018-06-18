@@ -1,0 +1,15 @@
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\bin\Debug\Microsoft.exe.config
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\bin\Debug\Microsoft.exe
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\bin\Debug\Microsoft.pdb
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\MainWindow.g.cs
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\App.g.cs
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft_MarkupCompile.cache
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft_MarkupCompile.lref
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\MainWindow.baml
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft.g.resources
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft.Properties.Resources.resources
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft.csproj.GenerateResource.Cache
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft.exe
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\Microsoft.pdb
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\WinAns.g.cs
+E:\isudo\Projects\VS2015\Microsoft\Microsoft\obj\Debug\WinAns.baml
